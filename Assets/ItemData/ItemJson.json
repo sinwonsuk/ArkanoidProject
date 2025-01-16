@@ -1,0 +1,16 @@
+{
+  "mItemCatch": {
+    "type": 3
+  },
+  "mItemRedLasers": {
+    "type": 1
+  },
+  "mItemBlueEnlarge": {
+    "size": 1.5,
+    "type": 2
+  },
+  "mItemOrangeSlow": {
+    "decrease": 0.5,
+    "type": 4
+  }
+}
